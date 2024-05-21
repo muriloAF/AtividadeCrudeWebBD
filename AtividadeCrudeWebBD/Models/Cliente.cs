@@ -11,6 +11,9 @@ namespace AtividadeCrudeWebBD.Models
         public string Email { get; set; }
         public int Tefelone { get; set; }
         public DateTime DataDeCombra { get; set; }
-        public  Produto Produto { get; set; }
+        public  Produto Produto { get; set; }   
+
+
+        
     }
 }
